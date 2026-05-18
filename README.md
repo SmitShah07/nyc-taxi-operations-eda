@@ -247,18 +247,3 @@ Short, medium, and long-distance trips should be analysed separately before maki
 Customer experience should also be considered, especially where tip percentages are already low.
 
 ---
-
-## Repository Structure
-
-```text
-nyc-taxi-operations-eda/
-│
-├── notebooks/
-│   └── EDA_Optimising_NYC_Taxis_Smit_Shah.ipynb
-│
-├── reports/
-│   └── EDA_Optimising_NYC_Taxis_Smit_Shah.pdf
-│
-├── README.md
-│
-└── .gitignore
